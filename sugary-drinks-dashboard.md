@@ -8,7 +8,7 @@ title: Sugary Drinks & Obesity in the Netherlands
 
 *Power BI · Power Query (M) · DAX · CBS StatLine open data*
 
-[View the repository on GitHub](https://github.com/SarinavanderVeer264468/sugary-drinks-dashboard) · [Back to portfolio](../)
+[View the repository on GitHub](https://github.com/SarinavanderVeer264468/sugary-drinks-dashboard) · [Back to portfolio](https://github.com/SarinavanderVeer264468/SarinavanderVeer264468.github.io)
 
 ---
 
