@@ -4,9 +4,9 @@ title: Sarina van der Veer
 
 # Sarina van der Veer
 
-Applied Data Science & AI student at Breda University of Applied Sciences. I work mainly with Power BI, Power Query and public datasets, and I'm most interested in how data gets turned into something a non-technical person can actually act on.
+I am a 20-year-old Applied Data Science & AI student at Breda University of Applied Sciences. This is my portfolio containing projects that depict my experience in the field. 
 
-[GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+[GitHub](https://github.com/SarinavanderVeer264468) · [LinkedIn](https://www.linkedin.com/in/sarinavanderveer/)
 
 ---
 
@@ -29,4 +29,4 @@ A Power BI dashboard on SDG indicator 3.4.1, built from CBS Health Survey data. 
 
 ## Contact
 
-[your.email@example.com](mailto:your.email@example.com)
+[svdveer2006@gmail.com](mailto:svdveer2006@gmail.coom)
