@@ -12,7 +12,7 @@ I am a 20-year-old Applied Data Science & AI student at Breda University of Appl
 
 ## Projects
 
-### [Sugary Drinks & Obesity in the Netherlands](/projects/sugary-drinks-dashboard.html)
+### [Sugary Drinks & Obesity in the Netherlands](/projects/sugary-drinks-dashboard.md)
 
 A Power BI dashboard on SDG indicator 3.4.1, built from CBS Health Survey data. Consumption fell between 2023 and 2024, but the relationship with obesity reverses depending on which population groups you compare — a confounding effect the dashboard makes visible rather than hiding.
 
