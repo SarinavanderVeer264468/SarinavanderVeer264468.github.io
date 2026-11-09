@@ -22,8 +22,8 @@ A Power BI dashboard on SDG indicator 3.4.1, built from CBS Health Survey data. 
 
 ## Skills
 
-**Tools** — Power BI, Power Query (M), DAX, Excel, Git
-**Working with data** — cleaning and reshaping messy public datasets, descriptive statistics, correlation analysis, dashboard design for non-technical audiences
+**Tools** — Power BI, Power Query (M), DAX, Excel, Python 
+**Working with data** — cleaning and reshaping datasets, descriptive statistics, correlation analysis, UX design 
 **Methods** — CRISP-DM
 **Languages** — Dutch (native), English (fluent)
 
