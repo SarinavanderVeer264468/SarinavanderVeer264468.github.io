@@ -78,6 +78,6 @@ That reversal is the most interesting result in the project, and it is a textboo
 
 The full repository has the `.pbix` file, the raw and cleaned data, the complete design document and an end-user guide.
 
-[View on GitHub](https://github.com/YOUR-USERNAME/sugary-drinks-dashboard)
+[View on GitHub](https://github.com/SarinavanderVeer264468/sugary-drinks-dashboard)
 
 *Built as an individual assignment for Applied Data Science & Artificial Intelligence, Breda University of Applied Sciences. Data © Centraal Bureau voor de Statistiek, used under CBS open data terms.*
